@@ -1,0 +1,16 @@
+Jogo estilo plataforma com 5 fases, sendo elas:
+1 - Bosque (Lobos/Bruxas)
+2 - Vale dos Ancestrais (Ogros/Golens)
+3 - Caverna (Aranhas/Morcegos)
+4 - Castelo (Cavaleiros/Arqueiros)
+5 - Fortaleza do Dragão (Dragão)
+
+Algumas mecanicas:
+
+- Sistema de "trilhos"
+- Pulo (de um trilho pro outro)
+- Sistema de multiplicação de pontuação por fases:
+    Dificuldade (Easy - Normal - Hard)
+    Pontuação
+    Pontuação Total: Pontuação * Tempo da fase * Dificuldade
+    Classificação: SS - S - A - B - C - D (Depende da Pontuação Total)
