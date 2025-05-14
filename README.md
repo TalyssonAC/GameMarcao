@@ -1,4 +1,4 @@
-# 🎮 Nome do Jogo:
+# 🎮 Nome do Jogo: **Aiden's Adventure**
 
 ## 👨‍💻 Desenvolvedor
 
@@ -7,13 +7,12 @@
 
 ## 🕹️ História do Jogo
 
-> (Escreva aqui um pequeno parágrafo explicando o enredo do seu jogo. Exemplo abaixo)
-
-Neste jogo, você controla um(a) [nome do personagem] em um mundo onde [resumo do conflito ou objetivo]. O desafio é sobreviver aos inimigos e coletar o maior número de pontos possível enquanto o cenário muda e desafios aparecem.
+Aiden começa sua jornada como um herói em busca de vingança pela perda de seu mestre e sua vila, mas à medida que avança nas fases do jogo, ele se dá conta de que sua missão é muito maior. Ele precisa restaurar o equilíbrio do mundo e garantir que o mal de Drakkar não tome conta da terra. Ao derrotar o dragão, Aiden não só vinga sua perda pessoal, mas também salva o mundo de um destino sombrio.
+Essa lore dá ao personagem uma motivação clara, emocional e com uma justificativa forte para enfrentar Drakkar na Fortaleza do Dragão, além de permitir que a narrativa se desenvolva enquanto o jogador avança pelas fases do jogo.
 
 ## 🧪 Tecnologias Utilizadas
 
-- Python 3.x
+- Python
 - Pygame
 - speech_recognition
 - pyttsx3
